@@ -1,0 +1,116 @@
+ * {
+	font-family: 'Lato', sans-serif;
+	
+ }
+
+ input[type=text],
+ select,
+ textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+  }
+  
+  input[type=submit] {
+	background-color: rgb(210, 105, 30);
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+	background-color: burlywood;
+  }
+  
+  .container-contact {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 10px;
+	text-align: left;
+	margin: auto;
+	width: 60%;
+	
+  }
+
+  .container-about {
+	background-color: beige;
+	text-align: justify;
+	padding: 20px 20px 60px;
+		
+  }
+
+  .par {
+	outline: 2px double darkolivegreen;
+    outline-offset: -12px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
+	padding: 20px;
+		
+  }
+  .about-image {
+	margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+  .container-blog {
+	background-color: beige;
+	text-align: justify;
+	padding: 10px 20px 60px;
+  }
+
+  .container-index {
+	padding: 20px;
+	text-align: justify;
+  }
+
+  .fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+	border-radius: 50%;
+  }
+  
+  .fa:hover {
+	  opacity: 0.7;
+  }
+  
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  
+  .fa-twitter {
+	background: #55ACEE;
+	color: white;
+  }
+  
+   .fa-linkedin {
+	background: #007bb5;
+	color: white;
+  }
+  
+  .fa-youtube {
+	background: #bb0000;
+	color: white;
+  }
+  
+  .fa-instagram {
+	background: #125688;
+	color: white;
+  }
+  
+  .fa-github {
+	background: white;
+	color: black;
+  }
+ 
